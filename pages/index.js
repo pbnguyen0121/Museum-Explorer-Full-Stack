@@ -8,7 +8,7 @@
 * 
 *  Name: __Phuong Bac Nguyen__ Student ID: __130135205__ Date: ___2025-08-12___
 *
-*  Vercel App (Deployed) Link: _____________________________________________________
+*  Vercel App (Deployed) Link: https://my-app-project-chi.vercel.app/
 *
 ********************************************************************************/ 
 
